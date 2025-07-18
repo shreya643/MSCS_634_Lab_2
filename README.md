@@ -1,6 +1,6 @@
 # MSCS_634_Lab_2
 
-## Lab Purpose
+## Purpose
 Using the Wine dataset, this lab shows how well K-Nearest Neighbors (KNN) and Radius Neighbors (RNN) do in classification. The main aim of this lab is to assess the effects of varying k and radius values on model.
 
 ## Key Insights
